@@ -1,0 +1,17 @@
+.heading-container {
+  text-align: center;
+}
+h1 {
+  color: #7843ed;
+  margin-top: 20px;
+}
+p {
+  color: #ed43d3;
+}
+.fun-facts {
+  background-color: #cdf8fb;
+  border-width: 10px;
+  border-color: #7843ed;
+  width: 400px;
+  height: 300px;
+}
