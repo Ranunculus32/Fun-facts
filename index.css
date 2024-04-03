@@ -1,3 +1,9 @@
+.container {
+  text-align: center;
+}
+.wrapper {
+  background-color: #cdfbdf;
+}
 .heading-container {
   text-align: center;
 }
@@ -8,10 +14,20 @@ h1 {
 p {
   color: #ed43d3;
 }
+.btn-submit {
+  background-color: #ed43a6;
+}
 .fun-facts {
   background-color: #cdf8fb;
   border-width: 10px;
   border-color: #7843ed;
   width: 400px;
   height: 300px;
+}
+footer {
+  margin-top: 20px;
+}
+.input {
+  padding: 15px;
+  margin-top: 20px;
 }
